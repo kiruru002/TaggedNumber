@@ -1,4 +1,4 @@
-TaggedNumber は bool int float の3つ型をを扱うためのタグ付き共用体です
+TaggedNumber は bool int float の3つ型を扱うためのタグ付き共用体です
 テキストから解釈した型と数値を保持します
 
 テスト
